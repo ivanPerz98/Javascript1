@@ -1,0 +1,11 @@
+{
+  "name": "ejercicio1_javascript",
+  "version": "1.0.0",
+  "description": " crea un script que muestre por pantalla \"Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo\".",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ivan",
+  "license": "ISC"
+}
