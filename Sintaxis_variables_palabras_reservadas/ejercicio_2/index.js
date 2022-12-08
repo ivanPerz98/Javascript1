@@ -12,7 +12,7 @@ const lista = [
     "Ivan",
     24,
     false,
-    "4/4/1998",
+    new date(1998,3,4),
     Favourite_Book={
         'titulo':'1984',
         'autor':'George Orwell',
