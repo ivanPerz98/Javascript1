@@ -1,0 +1,11 @@
+{
+  "name": "sintaxis_variables_palabras_reservadas",
+  "version": "1.0.0",
+  "description": "Sintaxis_variables_palabras_reservadas",
+  "main": "index.",
+  "scripts": {
+    "start":"node tipos_de_Datos.js"
+  },
+  "author": "ivan",
+  "license": "ISC"
+}
