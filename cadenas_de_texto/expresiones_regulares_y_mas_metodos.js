@@ -14,3 +14,5 @@ console.log(texto.startsWith('Pedro')) //TRUE
 //Saber si termin con una palabra
 
 console.log(texto.endsWith("paris"))  //FALSE, no es lo mismo p y P
+
+console.log("el máximo valor que se puede obtener en Javascript + 1")
